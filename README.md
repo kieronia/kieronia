@@ -1,5 +1,5 @@
 👋👋👋HIIIIIIIIIIIIIIIIIIII👋👋👋
-into = """
+intro = """
 😎 Kieronia is an epik person, yes 😎
 💻 Some softwares of mine that you can buy: 💻
 🌐 http://kieronia.com/ 🌐
