@@ -1,7 +1,7 @@
 👋👋👋HIIIIIIIIIIIIIIIIIIII👋👋👋
 
 
-![h](https://i.imgur.com/C3KBPdQ.png)
+![ik your here to learn how to embed photos lol](https://i.imgur.com/C3KBPdQ.png)
 
 😎 Kieronia is an epik person, yes 😎
 
